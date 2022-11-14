@@ -65,5 +65,5 @@ crontab -e
 @reboot sleep 10;(. ~/.profile; /usr/bin/screen -dmS Cursor ~/cursor.sh)
 ```
 ```
-0**** (. ~/.profile; /usr/bin/screen -dmS RefreshPage ~/refreshpage.sh)
+0 * * * * (. ~/.profile; /usr/bin/screen -dmS RefreshPage ~/refreshpage.sh)
 ```
