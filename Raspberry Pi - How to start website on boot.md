@@ -15,7 +15,7 @@ sudo apt install xdotool
 
 
 
-## Files in raspberry pi
+## Files/Scripts in raspberry pi
 
 
 ### juleshow.sh
@@ -62,10 +62,16 @@ sudo chmod +x refreshpage.sh
 ```
 
 
-## In crontab
+## Crontab
+
+
+### To open crontab
 ```
 crontab -e
 ```
+
+
+### In crontab
 ```
 @reboot (. ~/.profile; /usr/bin/screen -dmS Juleshow ~/juleshow.sh
 ```
