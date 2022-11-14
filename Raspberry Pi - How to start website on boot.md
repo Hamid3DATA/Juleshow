@@ -1,7 +1,8 @@
 # Everything you need to do
 
-## Things to install
 
+
+## Things to install
 ```
 sudo apt install screen
 ```
@@ -12,7 +13,11 @@ sudo apt install unclutter
 sudo apt install xdotool
 ```
 
+
+
 ## Files in raspberry pi
+
+
 ### juleshow.sh
 
 ```
@@ -42,6 +47,8 @@ export DISPLAY=:0
 xdotool key ctrl+F5
 ```
 
+
+
 ## Make the files executable
 
 ```
@@ -53,6 +60,7 @@ sudo chmod +x cursor.sh
 ```
 sudo chmod +x refreshpage.sh
 ```
+
 
 ## In crontab
 ```
