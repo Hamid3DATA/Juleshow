@@ -6,7 +6,6 @@ sudo apt install unclutter
 
 
 
-
 juleshow.sh
 
 
