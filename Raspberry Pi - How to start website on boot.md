@@ -2,7 +2,7 @@
 
 
 
-## Things to install
+## Things to install haha
 ```
 sudo apt install screen
 ```
