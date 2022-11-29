@@ -1,11 +1,11 @@
 ```
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/juleshow.sh && chmod +x juleshow.sh
+wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/juleshow.sh && sudo chmod +x juleshow.sh
 sleep 5
-wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/cursor.sh && chmod +x cursor.sh
+wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/cursor.sh && sudo chmod +x cursor.sh
 sleep 5
-wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/refreshpage.sh && chmod +x refreshpage.sh
+wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/refreshpage.sh && sudo chmod +x refreshpage.sh
 sleep 5
 { crontab -l -u pi; echo '@reboot (. ~/.profile; /usr/bin/screen -dmS Juleshow ~/juleshow.sh)'; } | crontab -u pi -
 sleep 2
