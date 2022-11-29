@@ -1,6 +1,4 @@
-
-# HAHA
-
+```
 #!/bin/bash
 
 wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/juleshow.sh && chmod +x juleshow.sh
@@ -14,3 +12,4 @@ sleep 2
 { crontab -l -u pi; echo '@reboot sleep 10;(. ~/.profile; /usr/bin/screen -dmS Cursor ~/cursor.sh)'; } | crontab -u pi -
 sleep 2
 { crontab -l -u pi; echo '0 * * * * (. ~/.profile; /usr/bin/screen -dmS RereshPage ~/refreshpage.sh)'; } | crontab -u pi -
+```
