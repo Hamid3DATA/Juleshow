@@ -73,7 +73,7 @@ crontab -e
 
 ### In crontab
 ```
-@reboot (. ~/.profile; /usr/bin/screen -dmS Juleshow ~/juleshow.sh
+@reboot (. ~/.profile; /usr/bin/screen -dmS Juleshow ~/juleshow.sh)
 ```
 ```
 @reboot sleep 10;(. ~/.profile; /usr/bin/screen -dmS Cursor ~/cursor.sh)
