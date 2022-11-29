@@ -21,11 +21,11 @@ sleep 2
 ```
 #!/bin/bash
 
-sudo apt install screen
+sudo apt install screen -y
 
-sudo apt install unclutter
+sudo apt install unclutter -y
 
-sudo apt install xdotool
+sudo apt install xdotool -y
 
 
 wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/juleshow.sh && sudo chmod +x juleshow.sh
