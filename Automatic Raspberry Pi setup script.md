@@ -10,6 +10,6 @@ wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/Automatic%20Rasp
 # If nothing that is needed is installed
 
 ```
-wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/Automatic%20Raspberry%20Pi%20setup%20scripts/not_installed && sudo chmod not_installed.sh
+wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/Automatic%20Raspberry%20Pi%20setup%20scripts/not_installed.sh && sudo chmod not_installed.sh
 ~/not_installed.sh
 ```
