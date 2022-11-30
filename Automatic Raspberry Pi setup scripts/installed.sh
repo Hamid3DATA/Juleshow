@@ -1,7 +1,5 @@
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/Raspberry%20Pi%20Files/test.sh
-sleep 1
 wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/Raspberry%20Pi%20Files/juleshow.sh && sudo chmod +x juleshow.sh
 sleep 1
 wget https://raw.githubusercontent.com/Hamid3DATA/Juleshow/main/Raspberry%20Pi%20Files/cursor.sh && sudo chmod +x cursor.sh
