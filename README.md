@@ -1,6 +1,6 @@
 This is my school project for Christmas.
 
-[!Note]
+[!NOTE]
 Some scripts were made for 1280x1024 (5:4) monitor so changes will be needed accordingly
 
 First things first you should download the website files from “[Website Files](https://github.com/Hamid3DATA/Juleshow/tree/main/Website%20Files)” folder and then start a local webserver.
