@@ -11,4 +11,4 @@ After you installed it you can go to /var/www/html/ and put the website files in
 
 If you want to do everything manually follow the “Raspberry Pi – How to start website on boot.md” file.
 
-If you want everything to be done automatically you should follow the “Automatic Raspberry Pi setup script.md” file.
+If you want everything to be done automatically follow the “Automatic Raspberry Pi setup script.md” file.
