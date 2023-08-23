@@ -7,7 +7,7 @@ To host this site locally using raspberry pi you will need "Apache2". You can in
 sudo apt install apache2
 ```
 
-After you installed it you can go to /var/www/html/ and put the website files in there. Then you can access the site using raspberry pi's IP address.
+After you installed it you can go to ```/var/www/html/``` and put the website files in there. Then you can access the site using raspberry pi's IP address.
 
 If you want to do everything manually follow the “[Raspberry Pi – How to start website on boot.md](https://github.com/Hamid3DATA/Juleshow/blob/main/Raspberry%20Pi%20-%20How%20to%20start%20website%20on%20boot.md)” file.
 
