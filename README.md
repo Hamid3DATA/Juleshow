@@ -3,6 +3,8 @@ This is my school project for Christmas.
 [!NOTE]
 Some scripts were made for 1280x1024 (5:4 aspect ratio) monitor so changes will be needed accordingly
 
+What I did was that i created a website using VSC(Visual Studio Code) and then i showcased it in our school hall using a raspberry pi that was connected to a 5:4 monitor
+
 First things first you should download the website files from “[Website Files](https://github.com/Hamid3DATA/Juleshow/tree/main/Website%20Files)” folder and then start a local webserver.
 To host this site locally using a raspberry pi you will need "Apache2". You can install it using
 
