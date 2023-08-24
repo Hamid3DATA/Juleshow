@@ -14,6 +14,8 @@ sudo apt install apache2
 
 After you installed it you can go to ```/var/www/html/``` and replace the index file with website files you just downloaded. You can then access the site in your browser by using raspberry pi's IP address.<br />
 
+<br />
+
 Now for your raspberry pi that will be connected to the monitor you can follow one out of these two instructions.
 
 If you want to do everything manually follow the “[Raspberry Pi – How to start website on boot.md](https://github.com/Hamid3DATA/Juleshow/blob/main/Raspberry%20Pi%20-%20How%20to%20start%20website%20on%20boot.md)” file.
