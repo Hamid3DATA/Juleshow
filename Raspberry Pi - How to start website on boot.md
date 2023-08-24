@@ -1,4 +1,4 @@
-# Everything you need to do
+# Everything you need to do (In order)
 
 
 
