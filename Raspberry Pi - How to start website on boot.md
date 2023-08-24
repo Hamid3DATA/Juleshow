@@ -18,7 +18,7 @@ sudo apt install xdotool
 ## Files/Scripts you will need to have in your raspberry pi
 
 
-### You can either just create .sh files in your raspberry pi or just download them from the [Raspberry Pi Files](https://github.com/Hamid3DATA/Juleshow/tree/main/Raspberry%20Pi%20Files) folder to your raspberry pi.
+You can either just create .sh files in your raspberry pi or just download them from the [Raspberry Pi Files](https://github.com/Hamid3DATA/Juleshow/tree/main/Raspberry%20Pi%20Files) folder to your raspberry pi.
 
 
 ### juleshow.sh
