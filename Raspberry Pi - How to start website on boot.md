@@ -10,6 +10,7 @@ sudo apt install screen
 sudo apt install unclutter
 ```
 
+<br />
 
 ## Files/Scripts you will need to have in your raspberry pi
 
@@ -36,7 +37,7 @@ export DISPLAY=:0
 unclutter -idle 0.01
 ```
 
-
+<br />
 
 ## Make the files executable
 
@@ -47,6 +48,7 @@ sudo chmod +x juleshow.sh
 sudo chmod +x cursor.sh
 ```
 
+<br />
 
 ## Crontab
 
