@@ -1,7 +1,7 @@
 This is my school project for Christmas.
 
 [!NOTE]
-Some scripts were made for 1280x1024 (5:4) monitor so changes will be needed accordingly
+Some scripts were made for 1280x1024 (5:4 aspect ratio) monitor so changes will be needed accordingly
 
 First things first you should download the website files from “[Website Files](https://github.com/Hamid3DATA/Juleshow/tree/main/Website%20Files)” folder and then start a local webserver.
 To host this site locally using raspberry pi you will need "Apache2". You can install it using
