@@ -11,7 +11,6 @@ sudo apt install unclutter
 ```
 
 <br />
-<br />
 
 ## Files/Scripts you will need to have in your raspberry pi
 
