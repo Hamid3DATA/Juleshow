@@ -12,7 +12,7 @@ To host this site locally using a raspberry pi you will need "Apache2". You can 
 sudo apt install apache2
 ```
 
-After you installed it you can go to ```/var/www/html/``` and replace the index file with website files you just downloaded. You can then access the site in your browser by using raspberry pi's IP address.     
+After you installed it you can go to ```/var/www/html/``` and replace the index file with website files you just downloaded. You can then access the site in your browser by using raspberry pi's IP address.<br />
 
 Now for your raspberry pi that will be connected to the monitor you can follow one out of these two instructions.
 
