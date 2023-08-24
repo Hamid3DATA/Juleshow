@@ -1,7 +1,5 @@
 This is my school project for Christmas.
 
-<br />
-
 #### [!NOTE]
 Some scripts were made for 1280x1024 (5:4 aspect ratio) monitor so changes will be needed accordingly
 
