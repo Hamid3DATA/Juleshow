@@ -15,7 +15,7 @@ sudo apt install xdotool
 
 
 
-## Files/Scripts in raspberry pi
+## Files/Scripts you will need to have in your raspberry pi
 
 
 ### juleshow.sh
