@@ -17,3 +17,5 @@ After you installed it you can go to ```/var/www/html/``` and replace the index 
 If you want to do everything manually follow the “[Raspberry Pi – How to start website on boot.md](https://github.com/Hamid3DATA/Juleshow/blob/main/Raspberry%20Pi%20-%20How%20to%20start%20website%20on%20boot.md)” file.
 
 If you want everything to be done automatically follow the “[Automatic Raspberry Pi setup script.md](https://github.com/Hamid3DATA/Juleshow/blob/main/Automatic%20Raspberry%20Pi%20setup%20script.md)” file.
+[!NOTE]
+
