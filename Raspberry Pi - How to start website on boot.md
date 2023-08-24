@@ -18,6 +18,9 @@ sudo apt install xdotool
 ## Files/Scripts you will need to have in your raspberry pi
 
 
+### You can either just create .sh files in your raspberry pi or just download them from the [Raspberry Pi Files](https://github.com/Hamid3DATA/Juleshow/tree/main/Raspberry%20Pi%20Files) folder to your raspberry pi.
+
+
 ### juleshow.sh
 
 ```
@@ -35,16 +38,6 @@ chromium-browser http://192.168.1.148 --window-size=1280,1024 --start-fullscreen
 
 export DISPLAY=:0
 unclutter -idle 0.01
-```
-
-
-### refreshpage.sh
-
-```
-#!/bin/bash
-
-export DISPLAY=:0
-xdotool key ctrl+F5
 ```
 
 
