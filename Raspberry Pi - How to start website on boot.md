@@ -9,10 +9,6 @@ sudo apt install screen
 ```
 sudo apt install unclutter
 ```
-```
-sudo apt install xdotool
-```
-
 
 
 ## Files/Scripts you will need to have in your raspberry pi
@@ -50,9 +46,6 @@ sudo chmod +x juleshow.sh
 ```
 sudo chmod +x cursor.sh
 ```
-```
-sudo chmod +x refreshpage.sh
-```
 
 
 ## Crontab
@@ -70,7 +63,4 @@ crontab -e
 ```
 ```
 @reboot sleep 10;(. ~/.profile; /usr/bin/screen -dmS Cursor ~/cursor.sh)
-```
-```
-0 * * * * (. ~/.profile; /usr/bin/screen -dmS RefreshPage ~/refreshpage.sh)
 ```
